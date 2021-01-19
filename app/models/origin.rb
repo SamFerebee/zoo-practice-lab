@@ -13,7 +13,7 @@ class Origin
         @@all
     end
 
-    def self.animals
-        
+    def animals
+
 
 end
